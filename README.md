@@ -12,8 +12,8 @@ A bar chart is ideal for displaying categorical distributions with numerous labe
 Categories are sorted in ascending order so the highest-volume categories appear at the top. Direct data labels display exact SKU counts alongside each bar to eliminate visual guessing.
 
 # Key insights derived from the visualization:
-Scooter Market Leadership: Scooters form MotorPH’s largest category at 12 models (24% of total catalog SKUs), aligning inventory with high-turnover urban commuter demand.   
+- Scooters form MotorPH’s largest category at 12 models (24% of total catalog SKUs), aligning inventory with high-turnover urban commuter demand.   
 
-Core Category Concentration: The top 5 categories—Scooter (12), Naked bike (7), Sport (4), Cruiser (4), and Adventure (4) make up 62% (31 SKUs) of the product portfolio.   
+- The top 5 categories:- Scooter (12), Naked bike (7), Sport (4), Cruiser (4), and Adventure (4) make up 62% (31 SKUs) of the product portfolio.   
 
-High Niche Fragmentation: 7 out of 17 categories contain only a single model (41% single-SKU categories), driving up warehousing overhead and highlighting opportunities for catalog rationalization
+- 7 out of 17 categories contain only a single model (41% single-SKU categories), driving up warehousing overhead and highlighting opportunities for catalog rationalization
